@@ -8,7 +8,7 @@
 
 ## Usage:
 
-1. Add this component to your Swift project: https://github.com/TomorrowMC/CustomerSearchBar.git
+1. Add this package to your Swift project: https://github.com/TomorrowMC/CustomerSearchBar.git
 
 2. In the view that needs to use the search bar, import the ``CustomerSearchBar`` module:
 
@@ -56,7 +56,7 @@ If you have any questions or need further assistance, please contact me at:
 
 ## 使用方法：
 
-1. 暂时只提供使用github的包添加进项目：https://github.com/TomorrowMC/CustomerSearchBar.git
+1. 暂时只提供使用package包添加进项目：https://github.com/TomorrowMC/CustomerSearchBar.git
 
 2. 在需要使用搜索栏的视图中，导入 `CustomerSearchBar` 模块：
 
