@@ -1,3 +1,5 @@
+# CustomerSearchBar
+
 ## Function description:
 
 <img src="https://pic.peo.pw/a/2023/04/25/6447a24fd0711.jpg" alt="IMG_8576.jpg" style="zoom:50%;" />
@@ -33,7 +35,7 @@ This project follows the MIT license, under which you are free to use, modify an
 If you have any questions or need further assistance, please contact me at:
 
 - [submit issue](https://github.com/TomorrowMC/CustomerSearchBar/issues)
-- Send an email to: youremail@example.com (please replace it with your actual email address)
+- Send an email to: [normalmoc@icloud.com](mailto:normalmoc@icloud.com)
 
 ## Features:
 
