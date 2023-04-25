@@ -14,9 +14,9 @@
 
 ```swift
 import CustomerSearchBar
-``` 3.
+```
 
-3. Use the ``customerSearchBar` view in the ``body`':
+3. Use the `customerSearchBar` view :
 
 ```swift
 customerSearchBar(searchText: $searchText.
