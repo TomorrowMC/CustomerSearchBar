@@ -20,7 +20,7 @@ import CustomerSearchBar
 
 ```swift
 customerSearchBar(searchText: $searchText.
-                  searchTip: ``Popular:''.
+                  searchTip: ''Popular:''.
                   searchPrompts: ["Example 1", "Example 2", "Example 3"].
                   destination: DestinationView().
                   presentationStyle: .sheet)
