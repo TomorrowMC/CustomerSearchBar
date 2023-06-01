@@ -1,8 +1,7 @@
 # CustomerSearchBar
 
 ## Function description:
-
-<img src="https://pic.peo.pw/a/2023/04/25/6447a24fd0711.jpg" alt="IMG_8576.jpg" style="zoom:50%;" />
+![OqZbaC.png](https://i.imgtg.com/2023/06/01/OqZbaC.png)
 
 `CustomerSearchBar` is a custom search bar component designed for SwiftUI that provides an elegant user interface that is more aesthetically pleasing than using a simple `TextField` or `Searchable`. The component allows users to customize hints, rotating hints, and the target view after clicking on a search. The component also supports displaying search results as a `sheet` or `navigationLink`.
 
